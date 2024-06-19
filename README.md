@@ -29,7 +29,7 @@
     <a href="https://linkedin.com/in/bintang-mayra-3698322a2/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
     </a>
-    <a href="https://instagram.com/your-instagram-profile">
+    <a href="https://instagram.com/bintngmayra">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
     </a>
 </p>

@@ -20,7 +20,7 @@ I'm a UI/UX developer!
   <li>Tailwind and Bootstraps</li>
 </ul>
 
-<h2>📫 How to reach me:</h2>
+<h2>📫 Connect Wiith me:</h2>
 <p align="center">
   <a href="mailto:bintangmayradestianti@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
@@ -36,7 +36,7 @@ I'm a UI/UX developer!
 
 
 
-<h2>🔗 Links</h2>
+<h2>🔗 Github Profile</h2>
 <p align="center">
   <a href="https://github.com/bintangmayra">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">

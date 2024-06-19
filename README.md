@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
+I'm a UI/UX developer!
 </p>
 
 <p align="center">
@@ -34,12 +34,7 @@
   </a>
 </p>
 
-<h2>📝 Latest Blog Posts</h2>
-<ul>
-  <li><a href="https://blog.bintangmayra.com/post1">Understanding JavaScript Closures</a></li>
-  <li><a href="https://blog.bintangmayra.com/post2">A Guide to Responsive Web Design</a></li>
-  <li><a href="https://blog.bintangmayra.com/post3">Getting Started with TypeScript</a></li>
-</ul>
+
 
 <h2>🔗 Links</h2>
 <p align="center">

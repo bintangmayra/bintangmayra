@@ -16,6 +16,8 @@ I'm a UI/UX developer!
 <h2>🌱 I’m currently learning ...</h2>
 <ul>
   <li>Javascript</li>
+    <li>Laravel</li>
+      <li>PHP</li>
   <li>React</li>
   <li>Tailwind and Bootstraps</li>
     <li>PostgreSql</li>

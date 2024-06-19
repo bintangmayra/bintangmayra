@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bintang Mayra's Profile</title>
+</head>
+<body>
+
 <h1 align="center">Hi there 👋, I'm Bintang Mayra</h1>
 
 <p align="center">
@@ -16,13 +25,13 @@ I'm a UI/UX developer!
 <h2>🌱 I’m currently learning ...</h2>
 <ul>
   <li>Javascript</li>
-    <li>Laravel</li>
-      <li>PHP</li>
+  <li>Laravel</li>
+  <li>PHP</li>
   <li>React</li>
   <li>Tailwind and Bootstraps</li>
-    <li>PostgreSql</li>
-    <li>Postman</li>
-    <li>MYSQL</li>
+  <li>PostgreSql</li>
+  <li>Postman</li>
+  <li>MYSQL</li>
 </ul>
 
 <h2>📫 Connect With me:</h2>
@@ -33,20 +42,20 @@ I'm a UI/UX developer!
   <a href="https://linkedin.com/in/bintang-mayra-3698322a2/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-   <a href="https://bintangmayra.github.io/bintangmayra-github.io/">
-        <img src="https://badge/Portofolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge">
-    </a>
-
+  <a href="https://bintangmayra.github.io/bintangmayra-github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge">
+  </a>
 </p>
-
-
 
 <h2>🔗 Github Profile</h2>
 <p align="center">
   <a href="https://github.com/bintangmayra">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
   </a>
-    <a href="https://bintangmayra.github.io/bintangmayra-github.io/">
-    <img src="https://badge/Portofolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portofolio Badge">
+  <a href="https://bintangmayra.github.io/bintangmayra-github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge">
   </a>
- 
+</p>
+
+</body>
+</html>

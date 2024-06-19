@@ -1,10 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Bintang Mayra</h1>
 
 <p align="center">
-  <img src="https://github.com/bintangmayra/bintangmayra/blob/main/profile_picture.png" alt="Bintang Mayra" width="200"/>
-</p>
-
-<p align="center">
 I'm a UI/UX developer!
 </p>
 

@@ -18,6 +18,9 @@ I'm a UI/UX developer!
   <li>Javascript</li>
   <li>React</li>
   <li>Tailwind and Bootstraps</li>
+    <li>PostgreSql</li>
+    <li>Postman</li>
+    <li>MYSQL</li>
 </ul>
 
 <h2>📫 Connect With me:</h2>

@@ -20,7 +20,7 @@ I'm a UI/UX developer!
   <li>Tailwind and Bootstraps</li>
 </ul>
 
-<h2>📫 Connect Wiith me:</h2>
+<h2>📫 Connect With me:</h2>
 <p align="center">
   <a href="mailto:bintangmayradestianti@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">

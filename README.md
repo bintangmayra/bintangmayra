@@ -23,16 +23,35 @@
 </p>
 
 <h2>🌱 I’m currently learning ...</h2>
-<ul>
-    <li>Javascript</li>
-    <li>Laravel</li>
-    <li>PHP</li>
-    <li>React</li>
-    <li>Tailwind and Bootstraps</li>
-    <li>PostgreSql</li>
-    <li>Postman</li>
-    <li>MYSQL</li>
-</ul>
+<p align="center">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    </a>
+    <a href="https://laravel.com/">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+    </a>
+    <a href="https://www.php.net/">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+    </a>
+    <a href="https://reactjs.org/">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+    </a>
+    <a href="https://tailwindcss.com/">
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+    </a>
+    <a href="https://getbootstrap.com/">
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+    </a>
+    <a href="https://www.postgresql.org/">
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+    </a>
+    <a href="https://www.postman.com/">
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+    </a>
+    <a href="https://www.mysql.com/">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    </a>
+</p>
 
 <h2>📫 Connect With Me:</h2>
 <p align="center">

@@ -28,6 +28,10 @@ I'm a UI/UX developer!
   <a href="https://linkedin.com/in/bintang-mayra-3698322a2/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
+   <a href="https://instagram.com/bintngmayra">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
+</a>
+
 </p>
 
 
@@ -37,10 +41,4 @@ I'm a UI/UX developer!
   <a href="https://github.com/bintangmayra">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
   </a>
-  <a href="https://blog.bintangmayra.com">
-    <img src="https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog Badge">
-  </a>
-  <a href="https://portfolio.bintangmayra.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=sitepoint&logoColor=white" alt="Portfolio Badge">
-  </a>
-</p>
+ 

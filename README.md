@@ -1,5 +1,3 @@
-<!-- README.md -->
-
 <h1 align="center">Hi there 👋, I'm Bintang Mayra</h1>
 
 <p align="center">
@@ -22,17 +20,19 @@
 <h2>🌱 I’m currently learning ...</h2>
 <ul>
   <li>Javascript</li>
-  <li>React </li>
-  <li>Tailwind and bootstraps</li>
+  <li>React</li>
+  <li>Tailwind and Bootstraps</li>
 </ul>
 
 <h2>📫 How to reach me:</h2>
-<p>
-  <a href="mailto:bintangmayradestianti@gmail.com">Email</a> |
-  <a href="https://linkedin.com/in/bintang-mayra-3698322a2/">LinkedIn</a> |
-
+<p align="center">
+  <a href="mailto:bintangmayradestianti@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+  </a>
+  <a href="https://linkedin.com/in/bintang-mayra-3698322a2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
 </p>
-
 
 <h2>📝 Latest Blog Posts</h2>
 <ul>
@@ -42,8 +42,14 @@
 </ul>
 
 <h2>🔗 Links</h2>
-<p>
-  <a href="https://github.com/bintangmayra">GitHub</a> |
-  <a href="https://blog.bintangmayra.com">Blog</a> |
-  <a href="https://portfolio.bintangmayra.com">Portfolio</a>
+<p align="center">
+  <a href="https://github.com/bintangmayra">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+  </a>
+  <a href="https://blog.bintangmayra.com">
+    <img src="https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog Badge">
+  </a>
+  <a href="https://portfolio.bintangmayra.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=sitepoint&logoColor=white" alt="Portfolio Badge">
+  </a>
 </p>

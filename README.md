@@ -22,6 +22,29 @@
     </a>
 </p>
 
+<h2>📫 Connect With Me:</h2>
+<p align="center">
+    <a href="mailto:bintangmayradestianti@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+    </a>
+    <a href="https://linkedin.com/in/bintang-mayra-3698322a2/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    </a>
+    <a href="https://instagram.com/your-instagram-profile">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
+    </a>
+</p>
+
+<h2>🔗 GitHub Profile</h2>
+<p align="center">
+    <a href="https://github.com/bintangmayra">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+    </a>
+    <a href="https://bintangmayra.github.io/bintangmayra-github.io/">
+        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Badge">
+    </a>
+</p>
+
 <h2>🌱 I’m currently learning ...</h2>
 <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
@@ -50,29 +73,6 @@
     </a>
     <a href="https://www.mysql.com/">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-    </a>
-</p>
-
-<h2>📫 Connect With Me:</h2>
-<p align="center">
-    <a href="mailto:bintangmayradestianti@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
-    </a>
-    <a href="https://linkedin.com/in/bintang-mayra-3698322a2/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-    </a>
-    <a href="https://instagram.com/your-instagram-profile">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
-    </a>
-</p>
-
-<h2>🔗 GitHub Profile</h2>
-<p align="center">
-    <a href="https://github.com/bintangmayra">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
-    </a>
-    <a href="https://bintangmayra.github.io/bintangmayra-github.io/">
-        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Badge">
     </a>
 </p>
 
